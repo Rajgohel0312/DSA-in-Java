@@ -1,0 +1,61 @@
+# ---------------------------
+# Java Build Files
+# ---------------------------
+*.class
+*.jar
+*.war
+*.ear
+
+# ---------------------------
+# IDE / Editor Files
+# ---------------------------
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.bak
+
+# ---------------------------
+# System Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Logs and Temporary Files
+# ---------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ---------------------------
+# Windows specific
+# ---------------------------
+desktop.ini
+
+# ---------------------------
+# Backup Files
+# ---------------------------
+*~
+*.bak
+
+# ---------------------------
+# Node or Other Tools (if ever used)
+# ---------------------------
+node_modules/
