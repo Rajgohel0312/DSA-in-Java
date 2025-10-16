@@ -10,24 +10,26 @@ Each program focuses on logic building and understanding nested loops in Java.
 ```
 01_Patterns/
 │
-├── Basic/
-│   ├── 01.SquareRectangle.java
-│   ├── 02.HollowRectangle.java
-│   ├── 03.HalfPyramid.java
-│   ├── 04.InvertedHalfPyramid.java
-│   ├── 05.RightHalfPyramid.java
-│   ├── 06.NumberHalfPyramid.java
-│   ├── 07.InvertedNumberHalfPyramid.java
-│   ├── 08.FloydTriangle.java
-│   └── 09.BitWiseTriangle.java
+├── Basic/                        # 🧩 Beginner-level pattern programs
+│   ├── 01.SquareRectangle.java            → Solid square or rectangle pattern
+│   ├── 02.HollowRectangle.java            → Hollow rectangle (border only)
+│   ├── 03.HalfPyramid.java                → Left-aligned half pyramid of stars
+│   ├── 04.InvertedHalfPyramid.java        → Upside-down half pyramid
+│   ├── 05.RightHalfPyramid.java           → Right-aligned half pyramid
+│   ├── 06.NumberHalfPyramid.java          → Number-based half pyramid
+│   ├── 07.InvertedNumberHalfPyramid.java  → Inverted numeric half pyramid
+│   ├── 08.FloydTriangle.java              → Floyd’s triangle pattern
+│   └── 09.BitWiseTriangle.java            → Binary (0–1) triangle pattern
 │
-└── Advance/
-    ├── 01.Butterfly.java
-    ├── 02.Rhombus.java
-    ├── 03.HollowRhombus.java
-    ├── 04.NumberPyramid.java
-    ├── 05.Palindromic.java
-    └── 06.Diamond.java
+└── Advance/                    # 🚀 Advanced & Complex pattern programs
+    ├── 01.Butterfly.java                  → Butterfly pattern (upper + lower wings)
+    ├── 02.Rhombus.java                    → Filled rhombus shape
+    ├── 03.HollowRhombus.java              → Rhombus outline (hollow)
+    ├── 04.NumberPyramid.java              → Centered numeric pyramid
+    ├── 05.Palindromic.java                → Palindromic number pyramid
+    ├── 06.Diamond.java                    → Filled diamond (star pattern)
+    ├── 07.HollowDiamond.java              → Hollow diamond outline
+    └── 08.PalindromicDiamond.java         → Symmetrical numeric palindromic diamond
 ```
 
 ---
