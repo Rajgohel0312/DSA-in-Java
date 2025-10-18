@@ -31,7 +31,6 @@ Each program focuses on logic building and understanding nested loops in Java.
     ├── 07.HollowDiamond.java              # Hollow diamond outline
     └── 08.PalindromicDiamond.java         # Symmetrical numeric palindromic diamond
 
-
 02_Arrays/
 │
 ├── Foundation/                    # 🧩 Basic array problems
@@ -41,6 +40,11 @@ Each program focuses on logic building and understanding nested loops in Java.
 │   ├── 04.RotateArrayByK.java
 │   ├── 05.RotateArrayByOne.java
 │   └── 06.SecondLargest.java
+│
+└── Logic_Building/                # 🛠 Intermediate logic-building problems
+    ├── MissingNumber.java
+    ├── MoveZeroes.java
+    └── RemoveDuplicates.java
 
 
 03_Strings/
