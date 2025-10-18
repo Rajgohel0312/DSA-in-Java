@@ -1,7 +1,8 @@
-# 🧩 Java Pattern Programs
+# DSA Practice Repository
 
-This repository contains solutions for basic and advanced **Java pattern printing problems**.  
-Each program focuses on logic building and understanding nested loops in Java.
+This repository contains solutions to **Data Structures and Algorithms (DSA) problems** in Java.  
+The purpose of this repo is to **strengthen problem-solving skills**, **understand algorithms**, and **practice efficient coding techniques**.
+
 
 ---
 
