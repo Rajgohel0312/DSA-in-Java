@@ -11,25 +11,41 @@ Each program focuses on logic building and understanding nested loops in Java.
 01_Patterns/
 │
 ├── Basic/                        # 🧩 Beginner-level pattern programs
-│   ├── 01.SquareRectangle.java            → Solid square or rectangle pattern
-│   ├── 02.HollowRectangle.java            → Hollow rectangle (border only)
-│   ├── 03.HalfPyramid.java                → Left-aligned half pyramid of stars
-│   ├── 04.InvertedHalfPyramid.java        → Upside-down half pyramid
-│   ├── 05.RightHalfPyramid.java           → Right-aligned half pyramid
-│   ├── 06.NumberHalfPyramid.java          → Number-based half pyramid
-│   ├── 07.InvertedNumberHalfPyramid.java  → Inverted numeric half pyramid
-│   ├── 08.FloydTriangle.java              → Floyd’s triangle pattern
-│   └── 09.BitWiseTriangle.java            → Binary (0–1) triangle pattern
+│   ├── 01.SquareRectangle.java           # Solid square or rectangle pattern
+│   ├── 02.HollowRectangle.java           # Hollow rectangle (border only)
+│   ├── 03.HalfPyramid.java               # Left-aligned half pyramid of stars
+│   ├── 04.InvertedHalfPyramid.java       # Upside-down half pyramid
+│   ├── 05.RightHalfPyramid.java          # Right-aligned half pyramid
+│   ├── 06.NumberHalfPyramid.java         # Number-based half pyramid
+│   ├── 07.InvertedNumberHalfPyramid.java # Inverted numeric half pyramid
+│   ├── 08.FloydTriangle.java             # Floyd’s triangle pattern
+│   └── 09.BitWiseTriangle.java           # Binary (0–1) triangle pattern
 │
-└── Advance/                    # 🚀 Advanced & Complex pattern programs
-    ├── 01.Butterfly.java                  → Butterfly pattern (upper + lower wings)
-    ├── 02.Rhombus.java                    → Filled rhombus shape
-    ├── 03.HollowRhombus.java              → Rhombus outline (hollow)
-    ├── 04.NumberPyramid.java              → Centered numeric pyramid
-    ├── 05.Palindromic.java                → Palindromic number pyramid
-    ├── 06.Diamond.java                    → Filled diamond (star pattern)
-    ├── 07.HollowDiamond.java              → Hollow diamond outline
-    └── 08.PalindromicDiamond.java         → Symmetrical numeric palindromic diamond
+└── Advance/                        # 🚀 Advanced & complex pattern programs
+    ├── 01.Butterfly.java                  # Butterfly pattern (upper + lower wings)
+    ├── 02.Rhombus.java                    # Filled rhombus shape
+    ├── 03.HollowRhombus.java              # Rhombus outline (hollow)
+    ├── 04.NumberPyramid.java              # Centered numeric pyramid
+    ├── 05.Palindromic.java                # Palindromic number pyramid
+    ├── 06.Diamond.java                    # Filled diamond (star pattern)
+    ├── 07.HollowDiamond.java              # Hollow diamond outline
+    └── 08.PalindromicDiamond.java         # Symmetrical numeric palindromic diamond
+
+
+02_Arrays/
+│
+├── Foundation/                    # 🧩 Basic array problems
+│   ├── 01.FindMaxConsecutiveOnes.java
+│   ├── 02.LargestElem.java
+│   ├── 03.LinearSearch.java
+│   ├── 04.RotateArrayByK.java
+│   ├── 05.RotateArrayByOne.java
+│   └── 06.SecondLargest.java
+
+
+03_Strings/
+│
+└── Strings.java                    # Basic string operations
 ```
 
 ---
